@@ -1,6 +1,6 @@
 import axios from "axios";
 import React from "react";
-import DataTable from "../EmpData";
+import DataTable from "../dataTable";
 
 export default class Emp extends React.Component {
   // initializing the state for the rempres (employee data response)
