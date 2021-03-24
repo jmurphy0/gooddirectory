@@ -1,39 +1,50 @@
+# React Employee Directory
 
-  # React Employee Directory
+![alttext](./src/components/assets/images/ScreenShot.png)
 
-  # Table of Contents
-  * [Author](##Author)
-  * [Project Description](##Description)
-  * [Install](##Install)
-  * [Usage](##Usage)
-  * [Testing](##Testing)
-  * [License](##License)
-  * [Contributors](##Contributors)
-  * [Questions](##Questions)
-   
-  
-  ## Author 
-  Name: Jack 
-  GitHub: jmurphy0
+# Table of Contents
 
-  ## Description 
-  A react project using React Bootstrap Datatables
+- [Author](##Author)
+- [Project Description](##Description)
+- [Install](##Install)
+- [Usage](##Usage)
+- [Testing](##Testing)
+- [License](##License)
+- [Contributors](##Contributors)
+- [Questions](##Questions)
 
-  ## Install 
-  requires npm install, Axios, mdbdatatable, react, react-bootstrap
+## Author
 
-  ## Usage 
-  install packages required and run NPM start from command line 
+Name: Jack
+GitHub: jmurphy0
+GitHub repo: https://github.com/jmurphy0/gooddirectory.git
+GithubPages: https://jmurphy0.github.io/employeedirectory/
 
-  ## Testing 
-  N/A
+## Description
 
-  ## License 
-  License:   ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)  
-  License link: https://opensource.org/licenses/MIT
+A react project using React Bootstrap Datatables
 
-  ## Contributors 
-  N/A
+## Install
 
-  ## Questions 
-  N/A
+requires npm install, Axios, mdbdatatable, react, react-bootstrap
+
+## Usage
+
+install packages required and run NPM start from command line
+
+## Testing
+
+N/A
+
+## License
+
+License: ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)  
+ License link: https://opensource.org/licenses/MIT
+
+## Contributors
+
+N/A
+
+## Questions
+
+N/A
