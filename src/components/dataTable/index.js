@@ -49,10 +49,12 @@ const DataTable = (props) => {
         sort: "disabled",
       },
     ],
+    // setting the rows equal to the properties passed in empData
     rows: props.employees,
   };
   console.log("props", props.employees);
   console.log("data", data);
+  // returning our data table with sorting and search functions built in
   return (
     <MDBDataTable
       searchtop="true"
