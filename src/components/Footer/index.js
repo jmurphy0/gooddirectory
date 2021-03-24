@@ -1,5 +1,5 @@
 import React from "react";
-
+// a simple bootstrap sticky footer is returned
 function Footer() {
   return (
     <nav class="navbar fixed-bottom navbar-light bg-light" id="foot">
