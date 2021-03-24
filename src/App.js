@@ -1,4 +1,3 @@
-import empData from "./components/EmpData";
 import "./App.css";
 import Emp from "./components/EmpData";
 import Wrapper from "./components/Wrapper";

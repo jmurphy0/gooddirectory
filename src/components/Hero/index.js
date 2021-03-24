@@ -1,7 +1,7 @@
 import "./style.css";
 //import Background from "../assets/images/DigitalImage.jpg";
 import React from "react";
-
+// basic function return the hero image with text overlay
 function Hero() {
   return (
     <div className="hero text-center">
