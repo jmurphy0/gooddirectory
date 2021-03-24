@@ -1,3 +1,4 @@
+//importing necessary components to be called in the app function.
 import "./App.css";
 import Emp from "./components/EmpData";
 import Wrapper from "./components/Wrapper";
