@@ -1,11 +1,18 @@
 import empData from "./components/EmpData";
 import "./App.css";
 import Emp from "./components/EmpData";
+import Wrapper from "./components/Wrapper";
+import Hero from "./components/Hero";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div>
-      <Emp />
+      <Wrapper>
+        <Hero />
+        <Emp />
+        <Footer />
+      </Wrapper>
     </div>
   );
 }
