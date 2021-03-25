@@ -12,7 +12,6 @@ export default class Emp extends React.Component {
     axios.get("https://randomuser.me/api?results=100").then((empdata) => {
       const edata = empdata.data.results;
       let emprec = [];
-      console.log("edata:", edata);
       for (let i = 0; i < edata.length; i++) {
         const user = edata[i];
         let info = {
